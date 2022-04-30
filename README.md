@@ -7,7 +7,7 @@ FlyAway A Ticket Booking Portal Application in JAVA – Servlet &JSP
 Project details: 
 FlyAway is an Aeroplane ticket-booking portal, that lets people book flights on their website easily.
  Developer detail’s: 
-This Project is Developed by Manvendra Singh.
+This Project is Developed by sumit kumar upadhyay.
  This project is hosted on git repository and link is,
  
  Table of contents
